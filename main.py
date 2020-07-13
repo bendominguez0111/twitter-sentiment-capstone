@@ -5,7 +5,7 @@ from nltk_install import nltk_install
 #install nltk dependencies
 nltk_install()
 
-positions = ['QB', 'RB', 'TE', 'QB']
+positions = ['QB', 'RB', 'TE', 'WR']
 
 df = pd.DataFrame()
 
